@@ -1,4 +1,4 @@
-nombre = "Antonio"
+nombre = "Anthony"
 numero = 777
 flotante = 3.1416
 booleano = True
