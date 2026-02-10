@@ -1,5 +1,5 @@
-# MiPrimerRepositorio
-un ejemplo de repositorio en GitHub
+# Segunda Practica
+Conceptos Basicos de base de datos
 1. ¿Qué es una Base de Datos Relacional?
 Es un sistema que guarda datos en tablas y permite relacionarlos entre sí. La idea es que la información no esté duplicada, sino conectada de manera lógica. Por ejemplo: una base de datos de una tienda puede tener una tabla de Clientes y otra de Pedidos, y ambas se relacionan para saber qué cliente hizo qué pedido.
 2. ¿Qué es una Tabla?
