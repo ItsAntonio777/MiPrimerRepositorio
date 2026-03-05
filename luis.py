@@ -1,5 +1,5 @@
 # Git Flow Basico
-Comando para el flujo de git basico
+Comand para el flujo de git basico
 ```sh
 git status
 git add . o git add -a git status
